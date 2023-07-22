@@ -10,5 +10,7 @@ public class C05_DataProviderUtilKullanimi {
     public void test01(String sehir, String bolge, String plaka) {
         System.out.println(sehir+" | "+bolge+" | "+plaka);
 
+        //git deneme
+
     }
 }
